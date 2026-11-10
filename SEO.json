@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "poultry-farm-management-system",
+  "description": "Poultry Farm Management System — Agriculture Laravel Filament ERP/SaaS for Bangladesh (Gazipur). Poultry farm system for flock cycles, feed conversion, mortality, vaccination, and sales. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "agriculture",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/poultry-farm-management-system"
+}
